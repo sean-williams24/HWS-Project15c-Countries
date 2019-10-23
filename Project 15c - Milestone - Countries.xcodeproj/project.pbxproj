@@ -15,7 +15,7 @@
 		CE397AFE235F5C830001A6E2 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = CE397AFD235F5C830001A6E2 /* countries.json */; };
 		CE397B00235F5CB70001A6E2 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE397AFF235F5CB70001A6E2 /* Country.swift */; };
 		CE397B02235F5F7F0001A6E2 /* CountriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE397B01235F5F7F0001A6E2 /* CountriesTableViewController.swift */; };
-		CE397B0423603ADF0001A6E2 /* DetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE397B0323603ADF0001A6E2 /* DetailTableViewController.swift */; };
+		CE397B0623603D4C0001A6E2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE397B0523603D4C0001A6E2 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		CE397AFD235F5C830001A6E2 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
 		CE397AFF235F5CB70001A6E2 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 		CE397B01235F5F7F0001A6E2 /* CountriesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesTableViewController.swift; sourceTree = "<group>"; };
-		CE397B0323603ADF0001A6E2 /* DetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewController.swift; sourceTree = "<group>"; };
+		CE397B0523603D4C0001A6E2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				CE397AEB235F5C6B0001A6E2 /* SceneDelegate.swift */,
 				CE397AFF235F5CB70001A6E2 /* Country.swift */,
 				CE397AEF235F5C6B0001A6E2 /* Main.storyboard */,
-				CE397B0323603ADF0001A6E2 /* DetailTableViewController.swift */,
 				CE397B01235F5F7F0001A6E2 /* CountriesTableViewController.swift */,
+				CE397B0523603D4C0001A6E2 /* DetailViewController.swift */,
 				CE397AF2235F5C6D0001A6E2 /* Assets.xcassets */,
 				CE397AF4235F5C6D0001A6E2 /* LaunchScreen.storyboard */,
 				CE397AF7235F5C6D0001A6E2 /* Info.plist */,
@@ -149,8 +149,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE397B00235F5CB70001A6E2 /* Country.swift in Sources */,
-				CE397B0423603ADF0001A6E2 /* DetailTableViewController.swift in Sources */,
 				CE397AEA235F5C6B0001A6E2 /* AppDelegate.swift in Sources */,
+				CE397B0623603D4C0001A6E2 /* DetailViewController.swift in Sources */,
 				CE397B02235F5F7F0001A6E2 /* CountriesTableViewController.swift in Sources */,
 				CE397AEC235F5C6B0001A6E2 /* SceneDelegate.swift in Sources */,
 			);
